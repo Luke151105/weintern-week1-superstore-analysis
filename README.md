@@ -2,13 +2,13 @@ Samaple Superstore Analysis
 
 Week 1 Data Science Internship Assignment for WeIntern Pvt Ltd
 
-Task 1: Data Cleaning
+Data Cleaning
 
 The dataset used was from Kaggle called sample superstore dataset and it has 9800 rows and 18 columns. The project was made using python in Jupyter notebook using libraries like pandas, numpy, and matplotlib.
 
 There were only 11 missing values from the column 'Postal Code' that i filled using 0. I also changed the data type values of 'Postal Code' to int and Order and ship date to datetime. There were also no duplicated values.
 
-Data Analysis
+Data Analysis and Data Visualization
 
 Type of customers:
 
@@ -68,7 +68,7 @@ Quarterly Sales of 2018:
 
 <img width="1028" height="590" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f666d02f-bd53-43b3-a4f9-18b6a7bebd54" />
 
-Monthly Sales
+Monthly Sales of 2018
 <img width="979" height="573" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/3519f1fe-695b-4789-86d8-c238a6c5e5be" />
 
 

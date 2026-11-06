@@ -1,4 +1,4 @@
-Samaple Superstore Analysis
+Sample Superstore Analysis
 
 Week 1 Data Science Internship Assignment for WeIntern Pvt Ltd
 

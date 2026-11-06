@@ -15,7 +15,9 @@ For Sales of distribution of customers they are again similar to the distributio
 <img width="702" height="494" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/2f624eb0-7d32-479a-be79-3309d0c70e04" />
 
 Which customer orders the most:
+
 The customer that orders the most is William Brown with 35 order along with him are Paul Prost and Matt Abelman with 34 orders and John Lee with 33 orders. This shows that these customers are very loyal
+
 <img width="1189" height="493" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/d7463932-d23b-4f23-94ef-c0a4e531c82b" />
 
 Which Customer gives the most Sales?
@@ -28,9 +30,11 @@ There are 4 modes of shipments which are Second Class, Standard Class, First Cla
 
 Highest Sales in Top cities and states:
 For States:
+
 <img width="679" height="428" alt="state" src="https://github.com/user-attachments/assets/653a43e0-821f-480d-8bed-80d8a9693c1f" />
 
 For Cities:
+
 <img width="640" height="446" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/7b13ae51-a436-4051-8f4a-baadc8a81c02" />
 
 

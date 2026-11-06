@@ -22,6 +22,30 @@ Which Customer gives the most Sales?
 The customer which gives the most sales is Sean Miller with more than $25k also Tamara Chand gives the second most sales with $19k and Raymond Buch with $15k sales
 <img width="1020" height="402" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/2b034ea2-09f2-46b2-bca1-7e30f750a7d5" />
 
+Which are the popular modes of shipment?
+There are 4 modes of shipments which are Second Class, Standard Class, First Class, Same Day. Out of these mode 60% are from standard class 19% from second class, 15% from first class and the rest from same day
+<img width="744" height="534" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/1d8c24bb-ec22-4f60-a189-1c6debae643e" />
+
+Highest Sales in Top cities and states:
+For States:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

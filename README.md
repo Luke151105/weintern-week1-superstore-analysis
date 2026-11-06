@@ -50,18 +50,25 @@ For Cities:
 
 Categories and Sub-Categories:
 
-There are 3 categories furniture, office supplies and technologies and their precentage of sales are
+There are 3 categories furniture, office supplies and technologies and the precentage of sales are given below
 
 <img width="717" height="521" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/52a10b83-d7ae-42fe-9a5f-91b831adbc53" />
 
+There are 17 sub-categories and their sales are shown in a bar graph
 
 <img width="1010" height="598" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/8019c3a9-5010-4b96-b144-9ef6ec3e007a" />
 
+Yearly Sales
+
+The Sales are shown from 2015- 2018 it is shown in 2015 sales were quite good but in 2016 there was a little dip. Then in 2017 sales increased and in 2018 sales increased quite significantly
 
 <img width="1071" height="594" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/8b0a81b6-004e-4e03-8c89-1eda9514a6ae" />
 
+Quarterly Sales of 2018:
+
 <img width="1028" height="590" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f666d02f-bd53-43b3-a4f9-18b6a7bebd54" />
 
+Monthly Sales
 <img width="979" height="573" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/3519f1fe-695b-4789-86d8-c238a6c5e5be" />
 
 

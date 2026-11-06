@@ -28,6 +28,13 @@ There are 4 modes of shipments which are Second Class, Standard Class, First Cla
 
 Highest Sales in Top cities and states:
 For States:
+<img width="679" height="428" alt="state" src="https://github.com/user-attachments/assets/653a43e0-821f-480d-8bed-80d8a9693c1f" />
+
+For Cities:
+<img width="640" height="446" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/7b13ae51-a436-4051-8f4a-baadc8a81c02" />
+
+
+
 
 
 

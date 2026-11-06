@@ -1,3 +1,4 @@
+<img width="717" height="521" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/64826b8e-a798-44cf-80d2-1f49527f4e2f" />
 # weintern-week1-superstore-analysis
 Week 1 Data Science Internship Assignment for WeIntern Pvt Ltd
 
@@ -38,6 +39,18 @@ For Cities:
 <img width="640" height="446" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/7b13ae51-a436-4051-8f4a-baadc8a81c02" />
 
 
+
+<img width="717" height="521" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/52a10b83-d7ae-42fe-9a5f-91b831adbc53" />
+
+
+<img width="1010" height="598" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/8019c3a9-5010-4b96-b144-9ef6ec3e007a" />
+
+
+<img width="1071" height="594" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/8b0a81b6-004e-4e03-8c89-1eda9514a6ae" />
+
+<img width="1028" height="590" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/f666d02f-bd53-43b3-a4f9-18b6a7bebd54" />
+
+<img width="979" height="573" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/3519f1fe-695b-4789-86d8-c238a6c5e5be" />
 
 
 

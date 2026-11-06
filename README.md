@@ -48,7 +48,9 @@ For Cities:
 
 <img width="640" height="446" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/7b13ae51-a436-4051-8f4a-baadc8a81c02" />
 
+Categories and Sub-Categories:
 
+There are 3 categories furniture, office supplies and technologies and their precentage of sales are
 
 <img width="717" height="521" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/52a10b83-d7ae-42fe-9a5f-91b831adbc53" />
 
